@@ -1,0 +1,8 @@
+[devserver]
+10.218.8.37 ansible_ssh_user=root
+
+[stagingserver]
+10.218.8.30 ansible_ssh_user=root
+
+[asiasrvserver]
+10.218.8.11 ansible_ssh_user=root
